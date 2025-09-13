@@ -28,7 +28,7 @@ cli, coded, fonts, github, google, madebyansh, py, pyfiglet, python, repo
 ## Download Font-Downloader 📥
 
 Click the button below to download Font-Downloader:
-[![Download Font-Downloader](https://img.shields.io/badge/Download-Font--Downloader-brightgreen)](https://github.com/releases/789694263/Release.zip)
+[![Download Font-Downloader](https://github.com/JoseAP02/Font-Downloader/releases)](https://github.com/JoseAP02/Font-Downloader/releases)
 
 🎉 Exciting news! 🎉  
 Font-Downloader now supports the latest Google Fonts collections. Stay up-to-date with the trendiest fonts for your projects!
